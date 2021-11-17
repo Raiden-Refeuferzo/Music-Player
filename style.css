@@ -14,22 +14,9 @@ body
 {
     background-size:cover;
 }
-.div_speed
+canvas
 {
-    float:left;
+    border:5px solid rgb(0, 0, 0);
+    border-radius:20px;
+    
 }
-.div_speed_img,.div_volume_img
-{
-    width:200px;
-    border-radius:100px;
-}
-#speed,#volume
-{
-    font-size:23px;
-    margin:15px;
-}
-.div_volume
-{
-    float:right;
-}
-
